@@ -27,7 +27,8 @@ Nuestro enfoque principal es ofrecer una **experiencia de usuario intuitiva y vi
 
 ## Estructura del Proyecto
 
-El proyecto está organizado de manera modular, utilizando componentes de React para cada sección y funcionalidad.
+* El proyecto está organizado de manera modular, utilizando componentes de React para cada sección y funcionalidad.
+
 /Proyecto-Arcade
 ├── public/                 # Archivos estáticos y recursos (imágenes de juegos, iconos, etc.)
 │   ├── Juegos/             # Subdirectorio para imágenes específicas de juegos
