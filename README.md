@@ -30,21 +30,37 @@ Nuestro enfoque principal es ofrecer una **experiencia de usuario intuitiva y vi
 * El proyecto está organizado de manera modular, utilizando componentes de React para cada sección y funcionalidad.
 
 /Proyecto-Arcade
-├── public/                 # Archivos estáticos y recursos (imágenes de juegos, iconos, etc.)
-│   ├── Juegos/             # Subdirectorio para imágenes específicas de juegos
+├── public/                 
+│   ├── Juegos/             
+
 │   ├── ... (otros assets como banner, logos, iconos)
+
 ├── src/
+
 │   ├── assets/
-│   │   ├── components/     # Todos los componentes funcionales de React
+
+│   │   ├── components/     
+
 │   │   │   ├── BarraBusqueda.jsx
+
 │   │   │   ├── BannerPrincipal.jsx
+
 │   │   │   ├── Footer.jsx
+
 │   │   │   ├── Header.jsx
+
 │   │   │   ├── JuegosDestacados.jsx
+
 │   │   │   └── JuegoTarjeta.jsx
+
 │   │   └── ... (otros assets de React si los hay)
-│   ├── App.jsx             # Componente principal que ensambla las secciones del Home
-│   ├── index.css           # Hoja de estilos principal con variables y reglas de CSS
-│   ├── main.jsx            # Punto de entrada de la aplicación React
+
+│   ├── App.jsx             
+
+│   ├── index.css           
+
+│   ├── main.jsx            
+
 │   └── ... (otros archivos de configuración o utilidades)
+
 └── ... (archivos de configuración del proyecto como package.json, vite.config.js, etc.)
