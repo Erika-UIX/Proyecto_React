@@ -1,4 +1,4 @@
-# arcadeVerse: Tu Portal al Pasado 🎮
+# Arcade Verse: Tu Portal al Pasado 🎮
 
 ## Descripción del Proyecto
 
@@ -30,7 +30,9 @@ Nuestro enfoque principal es ofrecer una **experiencia de usuario intuitiva y vi
 * El proyecto está organizado de manera modular, utilizando componentes de React para cada sección y funcionalidad.
 
 /Proyecto-Arcade
-├── public/                 
+
+├── public/
+
 │   ├── Juegos/             
 
 │   ├── ... (otros assets como banner, logos, iconos)
