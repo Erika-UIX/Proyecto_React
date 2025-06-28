@@ -2,7 +2,7 @@
 
 ## Descripción del Proyecto
 
-¡Bienvenido a **arcadeVerse**! Este proyecto es la materialización de una página de inicio (Home) de un portal web dedicado a revivir la magia de los videojuegos retro. Desarrollado con **React**, arcadeVerse busca ser un punto de encuentro tanto para veteranos nostálgicos como para nuevas generaciones curiosas por explorar los clásicos que marcaron la historia de los videojuegos.
+¡Bienvenido a **Arcade Verse**! Este proyecto es la materialización de una página de inicio (Home) de un portal web dedicado a revivir la magia de los videojuegos retro. Desarrollado con **React**, Arcade Verse busca ser un punto de encuentro tanto para veteranos nostálgicos como para nuevas generaciones curiosas por explorar los clásicos que marcaron la historia de los videojuegos.
 
 Nuestro enfoque principal es ofrecer una **experiencia de usuario intuitiva y visualmente atractiva**, sumergiendo al visitante en un ambiente que evoca la época dorada del gaming.
 
@@ -11,7 +11,6 @@ Nuestro enfoque principal es ofrecer una **experiencia de usuario intuitiva y vi
 * **Diseño Retro y Coherente:** Una interfaz visualmente atractiva con una paleta de colores vibrantes y fuentes que recuerdan a las máquinas arcade y consolas clásicas. El diseño es responsivo, asegurando una experiencia óptima en diferentes dispositivos.
 * **Navegación Intuitiva:** Un `Header` claro con enlaces a las secciones principales y un logo distintivo.
 * **Banner Principal Impactante:** Una sección de bienvenida que captura la esencia del sitio con una imagen de banner temática y un llamado a la acción.
-* **Sección de Descripción:** Un espacio dedicado a explicar la propuesta de valor de arcadeVerse y lo que los usuarios pueden esperar encontrar en el sitio.
 * **Juegos Destacados:** Una galería dinámica que presenta una selección de juegos retro populares, cada uno con su propia `tarjeta-juego` interactiva.
 * **Barra de Búsqueda Interactiva:** Una funcionalidad de búsqueda en tiempo real que ofrece sugerencias de juegos a medida que el usuario escribe, mejorando la usabilidad y la capacidad de descubrimiento. Las sugerencias incluyen información adicional como la consola y una breve descripción.
 * **Footer Completo:** Un pie de página con navegación secundaria, información de contacto y enlaces a redes sociales para mantener al usuario conectado.
@@ -23,7 +22,7 @@ Nuestro enfoque principal es ofrecer una **experiencia de usuario intuitiva y vi
 * **CSS3:** Estilizado y diseño responsivo, con uso de variables CSS para consistencia.
 * **JavaScript (ES6+):** Lógica interactiva de los componentes.
 * **Vite:** Herramienta de construcción rápida para el entorno de desarrollo.
-* **react-icons (Opcional):** Para la inclusión de iconos escalables (si finalmente se usa un icono en la barra de búsqueda u otros lugares).
+* **react-icons:** Para la inclusión de iconos escalables.
 
 ## Estructura del Proyecto
 
@@ -66,3 +65,5 @@ Nuestro enfoque principal es ofrecer una **experiencia de usuario intuitiva y vi
 │   └── ... (otros archivos de configuración o utilidades)
 
 └── ... (archivos de configuración del proyecto como package.json, vite.config.js, etc.)
+
+**¡Esperamos que disfrutes de tu viaje al pasado con arcadeVerse!**
